@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TriangleData length="108" description="Layout Test">
+	<!-- Copyright 2002, Peter Bradshaw -->
+
+	<Triangle img="6" sec="1" rot="0" x="0" y="0" pup="1" />
+	<Triangle img="6" sec="3" rot="0" x="200" y="0" pup="1" />
+	<Triangle img="6" sec="5" rot="0" x="400" y="0" pup="1" />
+	<Triangle img="6" sec="1" rot="2" x="600" y="0" pup="1" />
+	<Triangle img="6" sec="3" rot="2" x="800" y="0" pup="1" />
+	<Triangle img="6" sec="5" rot="2" x="1000" y="0" pup="1" />
+	<Triangle img="6" sec="1" rot="4" x="1200" y="0" pup="1" />
+	<Triangle img="6" sec="3" rot="4" x="1400" y="0" pup="1" />
+	<Triangle img="6" sec="5" rot="4" x="1600" y="0" pup="1" />
+
+	<Triangle img="6" sec="2" rot="0" x="0" y="100" pup="0" />
+	<Triangle img="6" sec="4" rot="0" x="200" y="100" pup="0" />
+	<Triangle img="6" sec="6" rot="0" x="400" y="100" pup="0" />
+	<Triangle img="6" sec="2" rot="2" x="600" y="100" pup="0" />
+	<Triangle img="6" sec="4" rot="2" x="800" y="100" pup="0" />
+	<Triangle img="6" sec="6" rot="2" x="1000" y="100" pup="0" />
+	<Triangle img="6" sec="2" rot="4" x="1200" y="100" pup="0" />
+	<Triangle img="6" sec="4" rot="4" x="1400" y="100" pup="0" />
+	<Triangle img="6" sec="6" rot="4" x="1600" y="100" pup="0" />
+
+	<Triangle img="6" sec="2" rot="3" x="0" y="200" pup="1" />
+	<Triangle img="6" sec="4" rot="3" x="200" y="200" pup="1" />
+	<Triangle img="6" sec="6" rot="3" x="400" y="200" pup="1" />
+	<Triangle img="6" sec="2" rot="1" x="600" y="200" pup="1" />
+	<Triangle img="6" sec="4" rot="1" x="800" y="200" pup="1" />
+	<Triangle img="6" sec="6" rot="1" x="1000" y="200" pup="1" />
+	<Triangle img="6" sec="2" rot="5" x="1200" y="200" pup="1" />
+	<Triangle img="6" sec="4" rot="5" x="1400" y="200" pup="1" />
+	<Triangle img="6" sec="6" rot="5" x="1600" y="200" pup="1" />
+
+	<Triangle img="6" sec="1" rot="3" x="0" y="300" pup="0" />
+	<Triangle img="6" sec="3" rot="3" x="200" y="300" pup="0" />
+	<Triangle img="6" sec="5" rot="3" x="400" y="300" pup="0" />
+	<Triangle img="6" sec="1" rot="1" x="600" y="300" pup="0" />
+	<Triangle img="6" sec="3" rot="1" x="800" y="300" pup="0" />
+	<Triangle img="6" sec="5" rot="1" x="1000" y="300" pup="0" />
+	<Triangle img="6" sec="1" rot="5" x="1200" y="300" pup="0" />
+	<Triangle img="6" sec="3" rot="5" x="1400" y="300" pup="0" />
+	<Triangle img="6" sec="5" rot="5" x="1600" y="300" pup="0" />
+
+</TriangleData>

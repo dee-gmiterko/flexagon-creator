@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TriangleData length="56" description="Instruction Figures Part 2 (For Standard template)">
+	<!-- Copyright 2002, Peter Bradshaw -->
+
+	<!-- step 1 side 1 tot:0-->
+
+	<!-- fold lines -->
+	<Triangle img="6" sec="4" rot="2" x="220" y="320" pup="0" />
+	<Triangle img="6" sec="2" rot="2" x="420" y="120" pup="0" /> 
+
+	<Triangle img="6" sec="1" rot="0" x="0" y="50" pup="1" />
+	<Triangle img="6" sec="3" rot="0" x="35" y="40" pup="1" />
+
+	<Triangle img="0" sec="3" rot="1" x="0" y="100" pup="0" />
+	<Triangle img="1" sec="6" rot="1" x="100" y="100" pup="1" />
+	<Triangle img="1" sec="3" rot="1" x="210" y="100" pup="0" />
+	<Triangle img="2" sec="2" rot="3" x="310" y="100" pup="1" />
+	<Triangle img="2" sec="1" rot="3" x="420" y="100" pup="0" />
+	<Triangle img="0" sec="4" rot="5" x="520" y="100" pup="1" />
+	<Triangle img="0" sec="5" rot="5" x="630" y="100" pup="0" />
+	<Triangle img="1" sec="4" rot="5" x="730" y="100" pup="1" />
+	<Triangle img="1" sec="5" rot="5" x="840" y="100" pup="0" />
+	<Triangle img="2" sec="6" rot="1" x="940" y="100" pup="1" />
+
+	<!-- step 1 side 2 tot: 11 -->
+
+	<Triangle img="6" sec="6" rot="5" x="0" y="220" pup="1" />
+
+	<Triangle img="2" sec="3" rot="1" x="110" y="220" pup="0" />
+	<Triangle img="0" sec="2" rot="3" x="210" y="220" pup="1" />
+	<Triangle img="0" sec="1" rot="3" x="320" y="220" pup="0" />
+	<Triangle img="1" sec="2" rot="3" x="420" y="220" pup="1" />
+	<Triangle img="1" sec="1" rot="3" x="530" y="220" pup="0" />
+	<Triangle img="2" sec="4" rot="5" x="630" y="220" pup="1" />
+	<Triangle img="2" sec="5" rot="5" x="740" y="220" pup="0" />
+	<Triangle img="0" sec="6" rot="1" x="840" y="220" pup="1" />
+
+	<Triangle img="6" sec="5" rot="1" x="950" y="220" pup="0" />
+
+	<!-- step 2  tot: 21 -->
+
+	<Triangle img="6" sec="3" rot="0" x="10" y="340" pup="1" />
+
+	<Triangle img="2" sec="6" rot="5" x="100" y="350" pup="1" />
+
+	<Triangle img="6" sec="4" rot="3" x="0" y="450" pup="1" />
+
+	<Triangle img="1" sec="5" rot="3" x="100" y="450" pup="0" />
+	<Triangle img="1" sec="4" rot="3" x="210" y="450" pup="1" />
+
+	<Triangle img="6" sec="2" rot="3" x="410" y="450" pup="1" />
+
+
+	<Triangle img="0" sec="5" rot="3" x="210" y="550" pup="0" />
+	<Triangle img="0" sec="4" rot="3" x="320" y="550" pup="1" />
+	<Triangle img="0" sec="1" rot="3" x="320" y="660" pup="0" />
+	<Triangle img="0" sec="2" rot="3" x="210" y="660" pup="1" />
+	<Triangle img="2" sec="3" rot="1" x="110" y="660" pup="0" />
+
+	<Triangle img="6" sec="6" rot="5" x="0" y="660" pup="1" />
+
+
+	<!-- step 3 pt 1 tot 34-->
+
+	<Triangle img="6" sec="3" rot="0" x="540" y="360" pup="1" />
+	<Triangle img="6" sec="1" rot="0" x="575" y="370" pup="1" />
+
+	<Triangle img="0" sec="6" rot="3" x="700" y="350" pup="1" />
+	<Triangle img="0" sec="5" rot="3" x="810" y="350" pup="0" />
+	<Triangle img="0" sec="4" rot="3" x="920" y="350" pup="1" />
+	<Triangle img="0" sec="1" rot="3" x="920" y="460" pup="0" />
+	<Triangle img="0" sec="2" rot="3" x="810" y="460" pup="1" />
+	<Triangle img="2" sec="3" rot="1" x="710" y="460" pup="0" />
+	<Triangle img="6" sec="6" rot="5" x="600" y="460" pup="1" />
+
+	<!-- step 4 pt 1 tot 44 -->
+
+	<Triangle img="6" sec="3" rot="0" x="540" y="560" pup="1" />
+	<Triangle img="6" sec="1" rot="0" x="575" y="570" pup="1" />
+	<Triangle img="6" sec="1" rot="0" x="600" y="570" pup="1" />
+
+	<Triangle img="0" sec="6" rot="3" x="700" y="570" pup="1" />
+	<Triangle img="0" sec="5" rot="3" x="810" y="570" pup="0" />
+	<Triangle img="0" sec="4" rot="3" x="920" y="570" pup="1" />
+	<Triangle img="0" sec="1" rot="3" x="920" y="680" pup="0" />
+	<Triangle img="0" sec="2" rot="3" x="810" y="680" pup="1" />
+	<Triangle img="2" sec="3" rot="1" x="710" y="680" pup="0" />
+	<Triangle img="6" sec="5" rot="3" x="710" y="675" pup="0" />
+	<Triangle img="6" sec="6" rot="5" x="600" y="680" pup="1" />
+
+	<!-- step 3 pt 2 tot 54 -->
+
+</TriangleData>
